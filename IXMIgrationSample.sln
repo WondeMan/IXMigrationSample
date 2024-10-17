@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IXMIgrationSample", "IXMIgrationSample\IXMIgrationSample.csproj", "{7BFFCE53-D5D9-4FD0-990B-2612790CB265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BFFCE53-D5D9-4FD0-990B-2612790CB265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFFCE53-D5D9-4FD0-990B-2612790CB265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFFCE53-D5D9-4FD0-990B-2612790CB265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFFCE53-D5D9-4FD0-990B-2612790CB265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF1A1FF8-EE0F-4ED6-886B-F84483845EB9}
+	EndGlobalSection
+EndGlobal
